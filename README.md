@@ -1,0 +1,1 @@
+Questa è un'applicazione per gli amanti della Pixel Art. In questa applicazione puoi disegnare dentro una griglia di caselle, cambiare la dimensione delle caselle, rendendole più grandi o più piccole, puoi creare una nuova griglia, salvare il lavoro svolto come file da riaprire in un secondo momento oppure salvare in png il disegno. 
